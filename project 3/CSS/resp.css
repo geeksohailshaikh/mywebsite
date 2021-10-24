@@ -1,0 +1,33 @@
+/* navigation section */
+
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    padding: 0px 0px;
+    font-size: 1rem;
+}
+
+/* primary section */
+
+/* #home {
+    width: 100vw;
+} */
+
+/* 
+#home::before {
+    width: 100vw;
+} */
+
+/* secondary section */
+
+#product1 {
+    flex-direction: column;
+}
+
+/* client section */
+
+/* contact section */
+
+/* footer */
